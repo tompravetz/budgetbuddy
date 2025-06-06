@@ -36,8 +36,7 @@ You’ll be prompted with a menu to:
 ## 📦 Requirements
 
 - Python 3.8+
-
-(Optional enhancements like CLI colors may require `rich` or `colorama` later.)
+- colorama
 
 ---
 
